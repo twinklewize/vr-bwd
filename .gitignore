@@ -46,3 +46,11 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+Assets/Oculus
+
+Assets/XR
+
+Assets/Oculus.meta
+
+Assets/XR.meta
