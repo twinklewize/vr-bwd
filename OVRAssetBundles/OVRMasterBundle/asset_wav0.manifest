@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2058199590
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b46c9735515183bf045f972a8fba7ec7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Jump.wav
+- Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Land.wav
+- Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep02.wav
+- Assets/Standard Assets/Characters/FirstPersonCharacter/Audio/Footstep01.wav
+Dependencies: []

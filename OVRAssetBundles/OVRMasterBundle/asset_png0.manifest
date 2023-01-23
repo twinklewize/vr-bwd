@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2768728650
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 55161d105ecbf41e81cda47593ec9b72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Models/deliver/\u0442\u0435\u043B\u043E_Cube_Material Base Color.png"
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+Dependencies: []

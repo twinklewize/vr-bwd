@@ -1,0 +1,70 @@
+ManifestFileVersion: 0
+CRC: 3772607555
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 03ebb3771594dd85e1fb6f60e4e500b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3a4a4f3396b8d517cba2cfd57ec27b70
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/house/diner_table.fbx
+- Assets/Models/house/bed.fbx
+- Assets/Models/shelf/stool.fbx
+- Assets/Models/shelf/big_shkaf.fbx
+- Assets/Models/brush/Schetka_chb.fbx
+- Assets/Models/house/lamp.fbx
+- Assets/Models/shelf/bar.fbx
+- Assets/Models/shelf/under.fbx
+- Assets/Models/house/diner_stool.fbx
+- Assets/Models/house/chest_art.fbx
+- Assets/Models/shelf/cnjktiybwf.fbx
+- Assets/Models/shelf/air_duct.fbx
+- Assets/Models/house/work_table.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Models/deliver/deliver.fbx
+- Assets/Models/ded/ded.fbx
+- Assets/Models/house/bookshelf.fbx
+- Assets/Models/shelf/corner_top.fbx
+- Assets/Models/cans/banki_s_kraskoy.fbx
+- Assets/Models/house/palette.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Models/gouvernant/gouvernant.fbx
+- Assets/Models/house/chest_bedroom.fbx
+- Assets/Models/house/sofa.fbx
+- Assets/Models/shelf/thin_shelf.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/Models/house/ladder.fbx
+- "Assets/Models/\u043A\u0430\u0440\u0442\u0438\u043D\u0430/\u041A\u0430\u0440\u0442\u0438\u043D\u0430.fbx"
+- Assets/Models/shelf/shelf.fbx
+Dependencies:
+- E:/Game/BWD/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- E:/Game/BWD/OVRAssetBundles/OVRMasterBundle/asset_mat0

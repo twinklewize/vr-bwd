@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 1423959056
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cc761d76b1a1fc41c636761bc5ab49b2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 62e0cdc0aef4bf365a0571d277bc0a57
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/house/house.fbx
+- Assets/Models/freezer/freezer_door.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Right.fbx
+- Assets/Models/shelf/right_bar.fbx
+- Assets/Models/house/armchair.fbx
+- Assets/Models/house/canvas.fbx
+- Assets/Models/house/stool.fbx
+- Assets/Models/house/easel.fbx
+- Assets/Models/shelf/oven.fbx
+- Assets/Models/babka/Standing_Idle (1).fbx
+- Assets/Models/house/pics.fbx
+- Assets/Models/house/sideboard.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Models/babka/babka.fbx
+- Assets/Models/freezer/freezer.fbx
+- Assets/Models/miniladder/Stremyanka_chb.fbx
+- Assets/Models/glasses/OChKI.fbx
+Dependencies:
+- E:/Game/BWD/OVRAssetBundles/OVRMasterBundle/asset_mat0

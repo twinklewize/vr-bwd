@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2817378175
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d85d9c063937b987c9c5bd1b00f80139
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- "Assets/Models/\u043A\u0430\u0440\u0442\u0438\u043D\u0430/\u041A\u0430\u0440\u0442\u0438\u043D\u0430.jpg"
+Dependencies: []

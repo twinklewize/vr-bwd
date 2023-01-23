@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1143971700
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8405c35b0ef9f993240b16af8b9541c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/babka/Standing_Idle (1).controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSLeftAnimation.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2LeftAnimation.controller
+- Assets/Models/babka/Cube_031.controller
+- Assets/Models/ded/ded (1).controller
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftRightAnimation.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Animation/OculusTouchQuestAndRiftSRightAnimation.controller
+- Assets/Models/deliver/deliver.controller
+- Assets/Models/gouvernant/gouvernant.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Animation/OculusTouchQuest2RightAnimation.controller
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Animation/OculusTouchRiftLeftAnimation.controller
+Dependencies:
+- E:/Game/BWD/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- E:/Game/BWD/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- E:/Game/BWD/OVRAssetBundles/OVRMasterBundle/asset_fbx1

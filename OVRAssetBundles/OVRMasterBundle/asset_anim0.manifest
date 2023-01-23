@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1205645990
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2f509b158f34d12e366101b51fc22e36
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Models/gouvernant/Armature_Armature_mixamo.com_Layer0.001.anim
+- Assets/Models/deliver/Armature.002_Armature.002_mixamo.com_Layer0.001.anim
+Dependencies: []
