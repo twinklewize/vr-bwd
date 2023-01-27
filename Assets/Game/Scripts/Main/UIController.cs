@@ -24,8 +24,9 @@ public class UIController : MonoBehaviour
 
     public static void SetExitText()
     {
-        bottomText.GetComponent<TextMeshProUGUI>().text = "";
-        centerText.GetComponent<TextMeshProUGUI>().text = "Нажмите A, чтобы выйти";
+        if(GameController.state == GameController._gameStateWin) centerText.GetComponent<TextMeshProUGUI>().text = "Вы раскрыли преступление! Полиция заберет всех!";
+        else centerText.GetComponent<TextMeshProUGUI>().text = "Вы проиграли. Вас обвинили в преступлении и полиция заберет вас";
+        bottomText.GetComponent<TextMeshProUGUI>().text = "Нажмите A, чтобы выйти";
     }
 
     public static void SetAnswersText(string first, string second = "")

@@ -6,6 +6,7 @@ using UnityEngine;
 public class GameController : MonoBehaviour
 {
     public static GameState state;
+    public static GameState _gameStateWin;
     public static void Win()
     {
         state = GameState.win;
@@ -28,13 +29,15 @@ public class GameController : MonoBehaviour
     void Start()
     {
         state = GameState.call;
+        _gameStateWin = GameState.win;
     }
 }
 
 public enum GameState
 {
-    call,
+    call = 1,
     game,
     win,
     lose,
 }
+

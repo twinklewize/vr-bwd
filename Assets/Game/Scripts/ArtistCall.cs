@@ -7,9 +7,11 @@ public class ArtistCall : MonoBehaviour
     private string text = "Это Кристина Крейл. В доме что-то странное. Я наняла вас расследовать пропажу красок, но боюсь дело сложнее. Я не сумасшедшая, но все картины, вся мебель, стены, все стало черно-белым. Я так понимаю вы уже прибыли на место и сами все видите. Мне страшно, сегодня я переночую в мастерской музея";
     private CallState state;
     private static bool buttonsIsBlocked;
+    public GameObject audio;
 
     void Start()
     {
+        audio.GetComponent<AudioSource>().enabled = true;
         state = CallState.ring;
         buttonsIsBlocked = false;
         UIController.SetAnswersText("Принять звонок");
@@ -33,6 +35,7 @@ public class ArtistCall : MonoBehaviour
         }
         if (state == CallState.listen)
         {
+            audio.GetComponent<AudioSource>().enabled = false;
             UIController.SetCenterTextWithAnswer(text, "Положить трубку");
             if (InputController.GetAnswer(false) == 0)
             {

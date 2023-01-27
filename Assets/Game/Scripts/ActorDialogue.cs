@@ -10,6 +10,7 @@ public class ActorDialogue : MonoBehaviour
     public GameObject actorText;
     public GameObject actorCanvas;
     private Dialogue dialogue;
+    public GameObject audio;
 
     private void OnTriggerStay(Collider other)
     {
@@ -38,6 +39,7 @@ public class ActorDialogue : MonoBehaviour
 
     void StartDialogue()
     {
+        audio.GetComponent<AudioSource>().enabled = true;
         actorCanvas.GetComponent<Canvas>().enabled = true;
         dialogue.Start();
         UpdateUI();
@@ -47,6 +49,7 @@ public class ActorDialogue : MonoBehaviour
     {
         UIController.RemoveText();
         actorCanvas.GetComponent<Canvas>().enabled = false;
+        audio.GetComponent<AudioSource>().enabled = false;
     }
 
 
@@ -106,6 +109,7 @@ public class ActorDialogue : MonoBehaviour
     {
         actorCanvas.GetComponent<Canvas>().enabled = false;
         dialogue = DialogueController.GetDialogue(actor);
+        audio.GetComponent<AudioSource>().enabled = false;
     }
 
     private void Update()
